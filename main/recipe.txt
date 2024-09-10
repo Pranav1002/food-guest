@@ -1,1 +1,2 @@
 1) This is the recipe for pizza.
+2) Adding step for garnishing.
