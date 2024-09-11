@@ -1,2 +1,6 @@
 1) This is the recipe for pizza.
+<<<<<<< HEAD
 2) Update in recipe.
+=======
+2) Adding step for garnishing.
+>>>>>>> feature/pizza
